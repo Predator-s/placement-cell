@@ -2,7 +2,7 @@
 
 ## Deployed Link
 
-## https://placement-0gnv.onrender.com
+## https://placement-cell-p.onrender.com
 
 ## NodeJS, ExpressJS, EJS, MongoDB, MongooseJS and Bootstrap has been used for this app.
 
